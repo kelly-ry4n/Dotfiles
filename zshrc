@@ -52,8 +52,8 @@ plugins=(git)
 # export MANPATH="/usr/local/man:$MANPATH"
 
 source $ZSH/oh-my-zsh.sh
-source ~/env/bin/activate
-export DJANGO_SETTINGS_MODULE="eqol.settings.local"
+
+source ~/.localrc
 
 # You may need to manually set your language environment
 # export LANG=en_US.UTF-8

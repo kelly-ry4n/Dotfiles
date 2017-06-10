@@ -1,3 +1,2 @@
 
 source ~/env/bin/activate
-export DJANGO_SETTINGS_MODULE="eqol.settings.local"

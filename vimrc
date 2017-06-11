@@ -57,3 +57,9 @@ if has("mouse_sgr")
     else
             set ttymouse=xterm2
         end
+
+let g:user_emmet_settings = {
+            \  'javascript' : {
+            \      'extends' : 'jsx',
+            \  },
+            \}
